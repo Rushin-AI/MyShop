@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+C:\Users\Admin\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
